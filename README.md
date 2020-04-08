@@ -1,0 +1,2 @@
+# JavaJCombineDB
+JavaのクラスとMariaDBのレコードを組み合わせてみた
