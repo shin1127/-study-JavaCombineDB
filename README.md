@@ -20,7 +20,6 @@ DAOパターン\*1を利用して、JavaのクラスとMariaDBのレコードを
 # Prepare
 
 - MariaDBでdb1というデータベースとbookテーブルを作成し、その中でbook.csvをインポートする。
-
 カラム,型はそれぞれ<br>
 title varchar(30), author varchar(30), publisher varchar(30)<br>
 とする。<br>
